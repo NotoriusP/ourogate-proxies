@@ -1,23 +1,24 @@
 {
-  "updatedAt": "2026-10-10T12:01:13.292Z",
+  "updatedAt": "2026-10-10T12:31:20.122Z",
   "source": "ourogate-proxy",
   "countries": [
-    "US",
-    "UN",
-    "IN",
-    "RU",
-    "HK",
-    "CA",
-    "DE",
-    "CN",
-    "SG",
-    "JP",
     "AR",
+    "CA",
+    "CN",
+    "DE",
     "GB",
-    "LV",
-    "KR",
+    "HK",
     "ID",
-    "MX"
+    "IN",
+    "JP",
+    "KR",
+    "LV",
+    "MX",
+    "RU",
+    "SG",
+    "TR",
+    "UN",
+    "US"
   ],
   "proxies": {
     "US": [
@@ -46,7 +47,10 @@
       "socks4://199.116.114.11:4145",
       "socks4://68.71.243.14:4145",
       "socks4://68.71.242.118:4145",
-      "socks4://98.188.47.132:4145"
+      "socks4://98.188.47.132:4145",
+      "socks5://rrrbupme:Xun7vU9srTHt@43.173.76.36:1080",
+      "socks5://proxy_d5f92d985c69:vZ0Tx20QiN_QMSUzcDD4WQ@proxy.viktorarsov.com:1080",
+      "socks5://113by3ev:hggxksa6plnq@us1.day1404.dpdns.org:11357"
     ],
     "UN": [
       "socks5://qpmcy1xm:wgj6q7ns5gfs@gb.day1404.dpdns.org:11361",
@@ -98,7 +102,8 @@
       "socks4://200.70.56.84:1080"
     ],
     "GB": [
-      "socks4://192.252.210.233:4145"
+      "socks4://192.252.210.233:4145",
+      "socks5://qpmcy1xm:wgj6q7ns5gfs@gb.day1404.dpdns.org:11361"
     ],
     "LV": [
       "socks5://195.13.182.212:8888"
@@ -111,6 +116,9 @@
     ],
     "MX": [
       "socks5://78.14.19.3:53866"
+    ],
+    "TR": [
+      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080"
     ]
   }
 }
