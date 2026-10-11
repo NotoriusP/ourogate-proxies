@@ -1,23 +1,25 @@
 {
-  "updatedAt": "2026-10-11T08:01:20.759Z",
+  "updatedAt": "2026-10-11T08:31:08.840Z",
   "source": "ourogate-proxy",
   "countries": [
-    "US",
-    "DE",
-    "UN",
+    "AE",
+    "BR",
     "CA",
-    "ID",
     "CN",
+    "DE",
     "GB",
+    "HK",
+    "ID",
     "IN",
+    "KR",
     "LV",
     "MX",
-    "HK",
-    "KR",
+    "MY",
     "NG",
     "TH",
-    "BR",
-    "MY"
+    "TR",
+    "UN",
+    "US"
   ],
   "proxies": {
     "US": [
@@ -47,13 +49,17 @@
       "socks4://174.64.199.82:4145",
       "socks5://66.59.197.61:4000",
       "socks5://rrrbupme:Xun7vU9srTHt@43.173.76.36:1080",
-      "socks5://85.209.156.148:1080"
+      "socks5://85.209.156.148:1080",
+      "socks5://113by3ev:hggxksa6plnq@us1.day1404.dpdns.org:11357",
+      "socks5://proxy_d5f92d985c69:vZ0Tx20QiN_QMSUzcDD4WQ@proxy.viktorarsov.com:1080"
     ],
     "DE": [
       "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080",
       "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080",
       "socks5://161.35.70.249:1080",
-      "socks5://7swa99bu:amik6pezusky@207.241.172.215:14111"
+      "socks5://7swa99bu:amik6pezusky@207.241.172.215:14111",
+      "socks5://zeus-ovh:cuXjMS5GxtZP@ze1.day1404.dpdns.org:11080",
+      "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080"
     ],
     "UN": [
       "socks5://qpmcy1xm:wgj6q7ns5gfs@gb.day1404.dpdns.org:11361",
@@ -77,7 +83,8 @@
       "socks5://8.130.37.235:8119"
     ],
     "GB": [
-      "socks4://192.252.210.233:4145"
+      "socks4://192.252.210.233:4145",
+      "socks5://qpmcy1xm:wgj6q7ns5gfs@gb.day1404.dpdns.org:11361"
     ],
     "IN": [
       "socks4://123.253.124.28:5678"
@@ -105,6 +112,13 @@
     ],
     "MY": [
       "socks5://47.250.177.202:808"
+    ],
+    "TR": [
+      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080",
+      "socks5://f9olzvwz:tvji3y733019@tr1.day1404.dpdns.org:11358"
+    ],
+    "AE": [
+      "socks5://zfdsvi6l:dl7o17z4ml9q@ua.day1404.dpdns.org:11359"
     ]
   }
 }
