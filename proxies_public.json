@@ -1,29 +1,64 @@
 {
-  "updatedAt": "2026-10-23T16:30:27.796Z",
+  "updatedAt": "2026-10-23T20:00:38.446Z",
   "source": "ourogate-proxy",
   "countries": [
-    "AE",
-    "CA",
-    "CN",
-    "DE",
-    "FR",
     "GB",
-    "HK",
-    "KH",
-    "MX",
-    "MY",
+    "CA",
     "NL",
-    "SG",
+    "FR",
     "TH",
-    "TR",
-    "UN",
+    "MX",
+    "ZA",
+    "CN",
+    "MY",
+    "SG",
     "US",
-    "ZA"
+    "UN",
+    "HK",
+    "DE",
+    "KH"
   ],
   "proxies": {
+    "GB": [
+      "socks4://192.252.210.233:4145"
+    ],
+    "CA": [
+      "socks5://pqyiblro:BW6cuhhS2U0r@132.145.110.34:1080",
+      "socks5://jhreyayp:YtvoFAC0jMDx@192.18.152.237:1080"
+    ],
+    "NL": [
+      "socks5://51.15.20.32:1088"
+    ],
+    "FR": [
+      "socks5://13.38.27.183:14358"
+    ],
+    "TH": [
+      "socks4://159.138.252.45:8888"
+    ],
+    "MX": [
+      "socks5://78.14.19.3:53866"
+    ],
+    "ZA": [
+      "socks4://182.160.16.234:8020"
+    ],
+    "CN": [
+      "socks5://8.130.37.235:8119",
+      "socks5://39.100.88.89:8333"
+    ],
+    "MY": [
+      "socks5://47.250.11.111:8081",
+      "socks5://47.250.177.202:808"
+    ],
+    "SG": [
+      "socks5://47.237.113.119:1080",
+      "socks5://47.129.105.10:1857"
+    ],
     "US": [
-      "socks4://68.71.243.14:4145",
       "socks4://192.252.216.86:4145",
+      "socks4://174.77.111.196:4145",
+      "socks4://184.182.240.211:4145",
+      "socks4://184.182.240.12:4145",
+      "socks4://68.71.243.14:4145",
       "socks4://192.111.139.163:19404",
       "socks4://98.181.137.80:4145",
       "socks4://192.111.137.34:18765",
@@ -43,17 +78,14 @@
       "socks4://142.54.237.34:4145",
       "socks4://192.111.129.145:16894",
       "socks4://192.252.215.5:16137",
-      "socks4://184.181.217.210:4145",
-      "socks5://192.111.137.34:18765",
-      "socks4://98.170.57.249:4145",
-      "socks5://113by3ev:hggxksa6plnq@us1.day1404.dpdns.org:11357"
+      "socks4://184.181.217.210:4145"
     ],
     "UN": [
       "socks5://zfdsvi6l:dl7o17z4ml9q@ua.day1404.dpdns.org:11359",
       "socks5://zfdsvi6l:dl7o17z4ml9q@ua.day1404.dpdns.org:11359",
-      "socks5://zfdsvi6l:dl7o17z4ml9q@ua.day1404.dpdns.org:11359",
-      "socks5://113by3ev:hggxksa6plnq@us1.day1404.dpdns.org:11357",
       "socks5://qpmcy1xm:wgj6q7ns5gfs@gb.day1404.dpdns.org:11361",
+      "socks5://113by3ev:hggxksa6plnq@us1.day1404.dpdns.org:11357",
+      "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080",
       "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080",
       "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080",
       "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080",
@@ -63,61 +95,19 @@
       "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080",
       "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080"
     ],
+    "HK": [
+      "socks5://43.198.78.37:8282",
+      "socks4://49.0.246.130:6789",
+      "socks5://43.245.199.34:1080"
+    ],
     "DE": [
-      "socks4://8.211.49.86:87",
       "socks4://8.209.68.1:8081",
+      "socks4://8.211.49.86:87",
       "socks5://161.35.70.249:1080",
-      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080",
-      "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080"
+      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080"
     ],
     "KH": [
       "socks4://45.118.77.67:1080"
-    ],
-    "GB": [
-      "socks4://192.252.210.233:4145",
-      "socks5://qpmcy1xm:wgj6q7ns5gfs@gb.day1404.dpdns.org:11361"
-    ],
-    "CA": [
-      "socks5://pqyiblro:BW6cuhhS2U0r@132.145.110.34:1080",
-      "socks5://jhreyayp:YtvoFAC0jMDx@192.18.152.237:1080"
-    ],
-    "NL": [
-      "socks5://51.15.20.32:1088"
-    ],
-    "FR": [
-      "socks5://13.38.27.183:14358"
-    ],
-    "MX": [
-      "socks5://78.14.19.3:53866"
-    ],
-    "CN": [
-      "socks5://8.130.37.235:8119",
-      "socks5://39.100.88.89:8333"
-    ],
-    "MY": [
-      "socks5://47.250.11.111:8081",
-      "socks5://47.250.177.202:808"
-    ],
-    "ZA": [
-      "socks4://182.160.16.234:8020"
-    ],
-    "TH": [
-      "socks4://159.138.252.45:8888"
-    ],
-    "SG": [
-      "socks5://47.237.113.119:1080",
-      "socks5://47.129.105.10:1857"
-    ],
-    "TR": [
-      "socks5://DcAhr0MqFcSpBxP:hURAUoBEWvwpd9Y@82.41.250.219:46691"
-    ],
-    "HK": [
-      "socks4://49.0.246.130:6789",
-      "socks5://43.198.78.37:8282",
-      "socks5://43.245.199.34:1080"
-    ],
-    "AE": [
-      "socks5://zfdsvi6l:dl7o17z4ml9q@ua.day1404.dpdns.org:11359"
     ]
   }
 }
