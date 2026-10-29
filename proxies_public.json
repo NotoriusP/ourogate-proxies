@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-29T12:01:30.507Z",
+  "updatedAt": "2026-10-29T12:31:11.352Z",
   "source": "ourogate-proxy",
   "countries": [
-    "US",
-    "UN",
-    "DE",
-    "TW",
     "CA",
+    "CN",
+    "DE",
     "FR",
     "GB",
-    "CN",
-    "MX",
     "HK",
-    "SG",
+    "MX",
     "MY",
-    "NL"
+    "NL",
+    "SG",
+    "TW",
+    "UN",
+    "US"
   ],
   "proxies": {
     "US": [
@@ -53,7 +53,8 @@
       "socks4://72.205.0.67:4145",
       "socks4://72.207.113.97:4145",
       "socks4://174.77.111.198:49547",
-      "socks4://98.182.147.97:4145"
+      "socks4://98.182.147.97:4145",
+      "socks5://113by3ev:hggxksa6plnq@us1.day1404.dpdns.org:11357"
     ],
     "UN": [
       "socks5://113by3ev:hggxksa6plnq@us1.day1404.dpdns.org:11357",
@@ -65,7 +66,8 @@
     "DE": [
       "socks5://161.35.70.249:1080",
       "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080",
-      "socks4://8.211.49.86:87"
+      "socks4://8.211.49.86:87",
+      "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080"
     ],
     "TW": [
       "socks4://125.227.169.85:38157"
