@@ -1,22 +1,26 @@
 {
-  "updatedAt": "2026-10-31T08:01:11.812Z",
+  "updatedAt": "2026-10-31T08:31:11.625Z",
   "source": "ourogate-proxy",
   "countries": [
-    "US",
-    "UN",
-    "DE",
-    "HK",
-    "GB",
-    "VN",
-    "SG",
-    "MY",
-    "TH",
     "CA",
     "CN",
-    "NL",
+    "DE",
     "FR",
+    "GB",
+    "HK",
+    "IT",
     "MX",
-    "RO"
+    "MY",
+    "NL",
+    "NO",
+    "RO",
+    "SE",
+    "SG",
+    "TH",
+    "TR",
+    "UN",
+    "US",
+    "VN"
   ],
   "proxies": {
     "US": [
@@ -44,7 +48,8 @@
       "socks4://98.181.137.80:4145",
       "socks4://199.229.254.129:4145",
       "socks4://192.252.209.158:4145",
-      "socks4://192.111.135.18:18301"
+      "socks4://192.111.135.18:18301",
+      "socks5://113by3ev:hggxksa6plnq@us1.day1404.dpdns.org:11357"
     ],
     "UN": [
       "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080",
@@ -65,7 +70,9 @@
       "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080",
       "socks4://8.211.49.86:87",
       "socks5://161.35.70.249:1080",
-      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080"
+      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080",
+      "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080",
+      "socks5://zxjeyump:PJlY6G2ZxYfc@217.217.225.33:1080"
     ],
     "HK": [
       "socks4://49.0.246.130:6789",
@@ -73,7 +80,8 @@
     ],
     "GB": [
       "socks5://192.252.210.233:4145",
-      "socks4://192.252.210.233:4145"
+      "socks4://192.252.210.233:4145",
+      "socks5://dunvnvfn:8jxhaq16pvby@zeus-1.khasteshodam.cyou:6070"
     ],
     "VN": [
       "socks4://103.182.22.224:9000"
@@ -98,16 +106,30 @@
       "socks4://47.106.216.202:1337"
     ],
     "NL": [
-      "socks5://45.74.31.40:13787"
+      "socks5://45.74.31.40:13787",
+      "socks5://admw:admw@damdaran.humanity.us.ci:20267"
     ],
     "FR": [
-      "socks5://13.38.27.183:14358"
+      "socks5://13.38.27.183:14358",
+      "socks5://p0fkuahj:e6qely5j216n@zeus-1.khasteshodam.cyou:6068"
     ],
     "MX": [
       "socks5://78.14.19.3:53866"
     ],
     "RO": [
       "socks5://blniabxs:UZ8MJzKky91r@45.13.38.31:1080"
+    ],
+    "IT": [
+      "socks5://tuvpjafd:udufn25z3vv4@zeus-1.khasteshodam.cyou:6066"
+    ],
+    "SE": [
+      "socks5://qsaf7xrh:jas09ei1stc7@zeus-1.khasteshodam.cyou:6061"
+    ],
+    "NO": [
+      "socks5://fqgzvre8:l4j3x093689q@zeus-1.khasteshodam.cyou:6062"
+    ],
+    "TR": [
+      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080"
     ]
   }
 }
