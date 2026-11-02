@@ -1,33 +1,27 @@
 {
-  "updatedAt": "2026-11-02T08:30:24.374Z",
+  "updatedAt": "2026-11-02T12:00:36.975Z",
   "source": "ourogate-proxy",
   "countries": [
-    "BD",
-    "CA",
-    "CN",
-    "DE",
-    "FR",
+    "US",
     "GB",
-    "HK",
-    "ID",
-    "IT",
-    "JP",
-    "MX",
-    "MY",
-    "NL",
-    "NO",
-    "RO",
-    "SE",
-    "SG",
-    "TH",
-    "TR",
-    "UA",
     "UN",
-    "US"
+    "UA",
+    "CA",
+    "DE",
+    "RO",
+    "FR",
+    "HK",
+    "MX",
+    "JP",
+    "TH",
+    "SG",
+    "MY",
+    "CN"
   ],
   "proxies": {
     "US": [
       "socks4://107.181.161.81:4145",
+      "socks4://184.181.217.201:4145",
       "socks4://67.201.35.145:4145",
       "socks4://199.229.254.129:4145",
       "socks4://174.64.199.79:4145",
@@ -49,95 +43,70 @@
       "socks4://192.252.211.197:14921",
       "socks4://98.178.72.30:4145",
       "socks4://184.178.172.28:15294",
-      "socks4://184.181.217.201:4145",
-      "socks5://113by3ev:hggxksa6plnq@us1.day1404.dpdns.org:11357"
+      "socks4://198.8.94.170:4145",
+      "socks4://174.77.111.197:4145"
+    ],
+    "GB": [
+      "socks5://192.252.210.233:4145",
+      "socks4://192.252.210.233:4145"
     ],
     "UN": [
       "socks5://p0fkuahj:e6qely5j216n@zeus-1.khasteshodam.cyou:6068",
-      "socks5://fqgzvre8:l4j3x093689q@zeus-1.khasteshodam.cyou:6062",
-      "socks5://fqgzvre8:l4j3x093689q@zeus-1.khasteshodam.cyou:6062",
       "socks5://113by3ev:hggxksa6plnq@us1.day1404.dpdns.org:11357",
-      "socks5://113by3ev:hggxksa6plnq@us1.day1404.dpdns.org:11357",
+      "socks5://fqgzvre8:l4j3x093689q@zeus-1.khasteshodam.cyou:6062",
+      "socks5://tuvpjafd:udufn25z3vv4@zeus-1.khasteshodam.cyou:6066",
+      "socks5://qsaf7xrh:jas09ei1stc7@zeus-1.khasteshodam.cyou:6061",
+      "socks5://admw:admw@damdaran.humanity.us.ci:20267",
+      "socks5://dunvnvfn:8jxhaq16pvby@zeus-1.khasteshodam.cyou:6070",
+      "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080",
       "socks5://admw:admw@damdaran.humanity.us.ci:20267",
       "socks5://admw:admw@damdaran.humanity.us.ci:20267",
       "socks5://qsaf7xrh:jas09ei1stc7@zeus-1.khasteshodam.cyou:6061",
-      "socks5://tuvpjafd:udufn25z3vv4@zeus-1.khasteshodam.cyou:6066",
       "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080",
       "socks5://dunvnvfn:8jxhaq16pvby@zeus-1.khasteshodam.cyou:6070",
       "socks5://dunvnvfn:8jxhaq16pvby@zeus-1.khasteshodam.cyou:6070",
       "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080"
     ],
-    "CN": [
-      "socks4://180.158.166.144:4145",
-      "socks4://47.106.216.202:1337",
-      "socks5://39.100.88.89:8333"
+    "UA": [
+      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080",
+      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080"
     ],
-    "GB": [
-      "socks5://192.252.210.233:4145",
-      "socks4://192.252.210.233:4145",
-      "socks5://dunvnvfn:8jxhaq16pvby@zeus-1.khasteshodam.cyou:6070"
+    "CA": [
+      "socks4://35.183.29.62:49252"
     ],
     "DE": [
       "socks5://zxjeyump:PJlY6G2ZxYfc@217.217.225.33:1080",
       "socks5://161.35.70.249:1080",
-      "socks4://8.211.49.86:87",
-      "socks5://zeus-de3:pnyyu5cfv5kx@ze3.day1404.dpdns.org:11080"
+      "socks4://8.211.49.86:87"
+    ],
+    "RO": [
+      "socks5://blniabxs:UZ8MJzKky91r@45.13.38.31:1080"
+    ],
+    "FR": [
+      "socks5://13.38.27.183:14358"
     ],
     "HK": [
       "socks4://49.0.246.130:6789",
       "socks5://43.198.78.37:8282"
     ],
-    "BD": [
-      "socks4://114.130.89.94:1080"
-    ],
-    "UA": [
-      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080",
-      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080",
-      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080",
-      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080"
-    ],
-    "RO": [
-      "socks5://blniabxs:UZ8MJzKky91r@45.13.38.31:1080"
-    ],
-    "CA": [
-      "socks4://35.183.29.62:49252"
+    "MX": [
+      "socks5://78.14.19.3:53866"
     ],
     "JP": [
       "socks4://8.221.139.222:4443"
     ],
-    "FR": [
-      "socks5://13.38.27.183:14358",
-      "socks5://p0fkuahj:e6qely5j216n@zeus-1.khasteshodam.cyou:6068"
+    "TH": [
+      "socks4://8.213.197.208:8008"
     ],
     "SG": [
       "socks5://47.129.105.10:1857"
     ],
-    "TH": [
-      "socks4://8.213.197.208:8008"
-    ],
-    "MX": [
-      "socks5://78.14.19.3:53866"
-    ],
     "MY": [
       "socks5://47.250.11.111:8081"
     ],
-    "ID": [
-      "socks4://59.153.81.234:5678"
-    ],
-    "NO": [
-      "socks5://fqgzvre8:l4j3x093689q@zeus-1.khasteshodam.cyou:6062"
-    ],
-    "TR": [
-      "socks5://shnblrdi:ymocXQBoXVgo@194.1.184.36:1080"
-    ],
-    "IT": [
-      "socks5://tuvpjafd:udufn25z3vv4@zeus-1.khasteshodam.cyou:6066"
-    ],
-    "SE": [
-      "socks5://qsaf7xrh:jas09ei1stc7@zeus-1.khasteshodam.cyou:6061"
-    ],
-    "NL": [
-      "socks5://admw:admw@damdaran.humanity.us.ci:20267"
+    "CN": [
+      "socks4://47.106.216.202:1337",
+      "socks5://39.100.88.89:8333"
     ]
   }
 }
